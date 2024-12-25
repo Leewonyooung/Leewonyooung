@@ -1,7 +1,9 @@
 <!--타이틀 부분-->
-<div align="center">
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=안녕하세요.%20개발자%20이원영%20입니다." alt="header" />
 </div>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Language ✨</h3>
@@ -63,8 +65,21 @@
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
+<br>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leewonyooung&layout=compact&theme=dark" alt="깃허브 언어 사용 순위" />
+  <img src="https://streak-stats.demolab.com?user=Leewonyooung&theme=transparent&locale=ko" alt="깃허브 커밋 스택" />
+</div>
 
 <br>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leewonyooung&theme=react-dark" alt="깃허브 커밋 그래프" />
+</div>
+<br>
+
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
