@@ -1,10 +1,5 @@
 <!--타이틀 부분-->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=안녕하세요.%20개발자%20이원영%20입니다." alt="header" />
-</div>
-
-
 <!--내용 부분-->
 <h3 align="center">✨ Language ✨</h3>
 <div align="center">
