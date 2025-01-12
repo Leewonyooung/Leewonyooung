@@ -4,9 +4,8 @@
 <h3 align="center">✨ Language ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /></a>&nbsp
+  <img src="https://img.shields.io/badge/Swift-08253c.svg?style=for-the-badge&logo=swift&logoColor=E34F26" />&nbsp
 </div>
 
 <br>
@@ -17,6 +16,12 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/SwiftUI-08253c.svg?style=for-the-badge&logo=swift&logoColor=4d77cf" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
